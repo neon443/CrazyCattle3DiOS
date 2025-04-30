@@ -1,3 +1,6 @@
+xc/CrazyCattle3D.xcarchive/Products/Applications/CrazyCattle3D.app/CrazyCattle3D filter=lfs diff=lfs merge=lfs -text
+xc/CrazyCattle3D.xcframework/ios-arm64/libgodot.a filter=lfs diff=lfs merge=lfs -text
+xc/CrazyCattle3D.xcframework/ios-arm64_x86_64-simulator/libgodot.a filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.import filter=lfs diff=lfs merge=lfs -text
 *.TTF filter=lfs diff=lfs merge=lfs -text
